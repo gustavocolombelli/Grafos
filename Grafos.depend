@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1536719981 source:c:\users\gustavo colombelli\desktop\schat\grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1536719964 source:c:\users\gustavo colombelli\desktop\schat\grafos\grafo.c
+	"Grafo.h"
+
+1536719851 c:\users\gustavo colombelli\desktop\schat\grafos\grafo.h
+	<stdio.h>
+	<stdlib.h>
+
+1536719964 c:\users\gustavo colombelli\desktop\schat\grafos\grafo.c
+	"Grafo.h"
+
+1536857441 source:c:\users\gustavo colombelli\desktop\grafos\grafo.c
+	"Grafo.h"
+
+1536854697 c:\users\gustavo colombelli\desktop\grafos\grafo.h
+	<stdio.h>
+	<stdlib.h>
+
+1536856688 source:c:\users\gustavo colombelli\desktop\grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
